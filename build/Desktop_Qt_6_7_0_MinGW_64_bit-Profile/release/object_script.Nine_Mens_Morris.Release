@@ -1,0 +1,11 @@
+release/main.o
+release/game.o
+release/gamewidget.o
+release/mainmenuwidget.o
+release/mainwindow.o
+release/move.o
+release/player.o
+release/state.o
+release/moc_gamewidget.o
+release/moc_mainmenuwidget.o
+release/moc_mainwindow.o

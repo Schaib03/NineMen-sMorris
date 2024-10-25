@@ -1,0 +1,11 @@
+debug/main.o
+debug/game.o
+debug/gamewidget.o
+debug/mainmenuwidget.o
+debug/mainwindow.o
+debug/move.o
+debug/player.o
+debug/state.o
+debug/moc_gamewidget.o
+debug/moc_mainmenuwidget.o
+debug/moc_mainwindow.o

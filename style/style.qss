@@ -1,0 +1,49 @@
+/* style.qss */
+
+
+QMainWindow {
+    background-image: url("../../media/Dark_wood.jpg");
+    background-attachment: cover;
+}
+
+QGraphicsView {
+    background-image: url("../../media/Dark_wood.jpg");
+    background-attachment: cover;
+}
+
+QPushButton {
+    background-color: #3b1d16;
+    color: rgb(246, 245, 245);
+    border: 3px solid #21120c;
+    border-radius: 7px;
+    padding: 10px;
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+    max-width: 200px;
+    margin-left: 650px;
+}
+
+HistoryWidget QPushButton
+{
+    margin-left: 0;
+}
+
+QPushButton#pauseButton {
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: #6c3318;;
+}
+
+QPushButton#pauseButton:hover {
+    background-color: #927237;
+}
+
+QPushButton:hover {
+    background-color: #a0451b;
+}
+
+QVBoxLayout {
+    margin: auto;
+}
+
+
